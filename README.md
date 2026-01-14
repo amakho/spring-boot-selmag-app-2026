@@ -1,6 +1,6 @@
 # Spring Projects (2026)
 
-Simple microservices project based on Spring Boot.  
+Simple microservices project based on Spring Boot!
 
 ## Profiles
 
