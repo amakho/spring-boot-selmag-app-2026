@@ -1,7 +1,6 @@
 # Spring Projects (2026)
 
 Simple microservices project based on Spring Boot.  
-This README is written in a simple style like a junior developer.
 
 ## Profiles
 
